@@ -35,4 +35,4 @@ Klasifikasi kasus COVID-19 yang ditampilkan pada peta web ini berdasarkan pada k
 [https://github.com/anshori/dashboard-covid19-arcgis-hub](https://github.com/anshori/dashboard-covid19-arcgis-hub)
 
 ##
->unsorry@2020
+>retry0@2020

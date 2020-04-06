@@ -5,9 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="Menampilkan data json menjadi peta dalam kasus data COVID-19 dengan sumber dari https://api.kawalcorona.com">
-  <meta name="author" content="unsorry">
+  <meta name="author" content="retry0">
 
-  <link href="https://unsorry.net/assets-date/images/favicon.png" rel="shortcut icon" type="image/png">
   <title>geo Corona Indonesia</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
@@ -24,7 +23,7 @@
   <script src="assets/lib/Leaflet.ExtraMarkers/js/leaflet.extra-markers.min.js"></script>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <a class="navbar-brand" href="#"><i class="fas fa-map-marker-alt"></i>Indonesia</a>
+    <a class="navbar-brand" href="#"><i class="fas fa-map-marker-alt"></i> Indonesia</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -121,7 +120,7 @@
     /* Initial Map */
     var map = L.map('map').setView([-2.4058653,117.5021489],5);
 
-    var _attribution = '<a href="https://unsorry.net" target="_blank">unsorry@2020</a>';
+    var _attribution = '<a href="https://retry0.netlify.com/" target="_blank">retry0@2020</a>';
     
     /* Tile Basemap */
     var basemap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
