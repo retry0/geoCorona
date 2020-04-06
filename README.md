@@ -27,7 +27,7 @@ Klasifikasi kasus COVID-19 yang ditampilkan pada peta web ini berdasarkan pada k
 
 **Demo**
 
-[https://www.unsorry.net/git/geojsoncombine-corona](https://www.unsorry.net/git/geojsoncombine-corona)
+[https://geocoronaindonesia.herokuapp.com/](https://geocoronaindonesia.herokuapp.com/)
 
 ##
 **Repositori dengan sumber data dari https://bnpb-inacovid19.hub.arcgis.com/**
