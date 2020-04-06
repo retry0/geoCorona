@@ -151,9 +151,9 @@
           "<div class='card-header alert-success text-center p-1'><strong>Provinsi<br>" + feature.properties.PROV + "</strong></div>" +
           "<div class='card-body p-0'>" +
             "<table class='table table-responsive-sm m-0'>" +
-              "<tr><th><i class='far fa-sad-tear'></i> Kasus Positif</th><th>" + feature.properties.Kasus_Positif + "</th></tr>" +
-              "<tr class='text-success'><th><i class='far fa-smile'></i> Kasus Sembuh</th><th>" + feature.properties.Kasus_Sembuh + "</th></tr>" +
-              "<tr class='text-danger'><th><i class='far fa-frown'></i> Kasus Meninggal</th><th>" + feature.properties.Kasus_Meninggal + "</th></tr>" +
+              "<tr><th><i class='far fa-sad-tear'></i> Positif</th><th>" + feature.properties.Kasus_Positif + "</th></tr>" +
+              "<tr class='text-success'><th><i class='far fa-smile'></i> Sembuh</th><th>" + feature.properties.Kasus_Sembuh + "</th></tr>" +
+              "<tr class='text-danger'><th><i class='far fa-frown'></i> Meninggal</th><th>" + feature.properties.Kasus_Meninggal + "</th></tr>" +
             "</table>" +
           "</div>";
           layer.on({
@@ -194,9 +194,9 @@
           "<div class='card-header alert-primary text-center p-1'><strong>Provinsi<br>" + feature.properties.PROV + "</strong></div>" +
           "<div class='card-body p-0'>" +
             "<table class='table table-responsive-sm m-0'>" +
-              "<tr><th><i class='far fa-sad-tear'></i> Kasus Positif</th><th>" + feature.properties.Kasus_Positif + "</th></tr>" +
-              "<tr class='text-success'><th><i class='far fa-smile'></i> Kasus Sembuh</th><th>" + feature.properties.Kasus_Sembuh + "</th></tr>" +
-              "<tr class='text-danger'><th><i class='far fa-frown'></i> Kasus Meninggal</th><th>" + feature.properties.Kasus_Meninggal + "</th></tr>" +
+              "<tr><th><i class='far fa-sad-tear'></i> Positif</th><th>" + feature.properties.Kasus_Positif + "</th></tr>" +
+              "<tr class='text-success'><th><i class='far fa-smile'></i> Sembuh</th><th>" + feature.properties.Kasus_Sembuh + "</th></tr>" +
+              "<tr class='text-danger'><th><i class='far fa-frown'></i> Meninggal</th><th>" + feature.properties.Kasus_Meninggal + "</th></tr>" +
             "</table>" +
           "</div>";
           layer.on({
@@ -237,9 +237,9 @@
           "<div class='card-header alert-warning text-center p-1'><strong>Provinsi<br>" + feature.properties.PROV + "</strong></div>" +
           "<div class='card-body p-0'>" +
             "<table class='table table-responsive-sm m-0'>" +
-              "<tr><th><i class='far fa-sad-tear'></i> Kasus Positif</th><th>" + feature.properties.Kasus_Positif + "</th></tr>" +
-              "<tr class='text-success'><th><i class='far fa-smile'></i> Kasus Sembuh</th><th>" + feature.properties.Kasus_Sembuh + "</th></tr>" +
-              "<tr class='text-danger'><th><i class='far fa-frown'></i> Kasus Meninggal</th><th>" + feature.properties.Kasus_Meninggal + "</th></tr>" +
+              "<tr><th><i class='far fa-sad-tear'></i> Positif</th><th>" + feature.properties.Kasus_Positif + "</th></tr>" +
+              "<tr class='text-success'><th><i class='far fa-smile'></i> Sembuh</th><th>" + feature.properties.Kasus_Sembuh + "</th></tr>" +
+              "<tr class='text-danger'><th><i class='far fa-frown'></i> Meninggal</th><th>" + feature.properties.Kasus_Meninggal + "</th></tr>" +
             "</table>" +
           "</div>";
           layer.on({
