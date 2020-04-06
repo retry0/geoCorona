@@ -30,9 +30,4 @@ Klasifikasi kasus COVID-19 yang ditampilkan pada peta web ini berdasarkan pada k
 [https://geocoronaindonesia.herokuapp.com/](https://geocoronaindonesia.herokuapp.com/)
 
 ##
-**Repositori dengan sumber data dari https://bnpb-inacovid19.hub.arcgis.com/**
-
-[https://github.com/anshori/dashboard-covid19-arcgis-hub](https://github.com/anshori/dashboard-covid19-arcgis-hub)
-
-##
 >retry0@2020
